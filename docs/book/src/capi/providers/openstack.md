@@ -50,5 +50,5 @@ To build a Ubuntu 22.04-based CAPI image, run the following commands -
 ```bash
 $ git clone https://github.com/kubernetes-sigs/image-builder.git
 $ cd image-builder/images/capi/
-$ make build-qemu-ubuntu-2204
+$ make build-qemu-ubuntu-2204-cloudimg
 ```
